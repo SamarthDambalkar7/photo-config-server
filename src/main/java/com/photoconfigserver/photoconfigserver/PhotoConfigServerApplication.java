@@ -11,5 +11,5 @@ public class PhotoConfigServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(PhotoConfigServerApplication.class, args);
     }
-
+        
 }
